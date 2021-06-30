@@ -65,6 +65,9 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
+
+[Click here to view codebase](https://www.linkedin.com/in/kelvin-sim-915915191/)
+
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
